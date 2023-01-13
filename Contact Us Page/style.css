@@ -11,8 +11,8 @@ body, textarea {
   text-align: center;
 }
 
-textarea, .outer-container, .main-header {
-}
+/* textarea, .outer-container, .main-header {
+} */
 
 .outer-container {
   /* border: 2px solid firebrick; */
