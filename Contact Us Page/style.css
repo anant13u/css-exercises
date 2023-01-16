@@ -3,7 +3,7 @@ body, textarea {
   /* font-weight: bold; */
 }
 
-.main-header {
+#main-header {
   margin: 35px 0 20px;
   font-family: "Roboto";
   /* border: 2px solid green; */
