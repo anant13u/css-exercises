@@ -20,7 +20,7 @@ img {
   gap: 52px;
 }
 
-.first-flower, .second-flower, .third-flower, .fourth-flower {
+.flower {
   display: flex;
   flex-direction: column;
   justify-content: center;
