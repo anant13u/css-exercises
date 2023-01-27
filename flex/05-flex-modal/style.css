@@ -68,9 +68,9 @@ button.cancel {
   color: royalblue;
 }
 
-.icon-container, .other-container {
-  /* padding: 15px; */
-}
+/* .icon-container, .other-container {
+  padding: 15px;
+} */
 
 .headerandbutton-container {
   display: flex;
